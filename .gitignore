@@ -1,0 +1,21 @@
+# ROS 2 Build Artifacts
+build/
+install/
+log/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Unity & IDE Files
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+
