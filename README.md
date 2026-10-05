@@ -12,6 +12,6 @@ A bi-directional digital twin of the Thor 6-DOF robotic arm combining ROS 2 (Hum
 ## Quick Start (Docker Hub)
 Pull and run the pre-built ROS 2 container directly:
 ## Local Setup
-1. **Clone the Repository:**
-2. **Build Docker Image:**
-3. **Run Container:**
+1. **Clone the Repository**
+2. **Build Docker Image**
+3. **Run Container**
